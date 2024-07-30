@@ -1,0 +1,98 @@
+body{
+background-image: url("./img/pexels-david-bartus-43782-610293.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+border-color: black;
+border-width: 10px;
+}
+#pp{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    padding-top: 5px;
+    color: rgb(205, 221, 229);
+    -webkit-text-stroke: .5px  #030e18;
+    
+    
+}
+
+
+#in{
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#ll input{
+    background-color: rgb(251, 227, 200);
+    width:1000px;
+    height:30px;
+    border-radius: 20px;
+    border: 2px solid black;
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    background: transparent;
+    
+
+
+
+}
+#lk{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1d0202;
+    font-weight: bold;
+}
+#kk {
+    
+    background-position: center;
+    display: block;
+    margin: auto;
+    text-align: center;
+    
+}
+#kk button{
+    cursor: pointer;
+    color: #240202;
+    stroke: black;
+    height: 100px;
+    width: 100px;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    background: transparent;
+    
+}
+#kk input{
+    cursor: pointer;
+    color: #240202;
+    
+    stroke: black;
+    height: 100px;
+    width: 100px;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    background: transparent;
+
+}
+#kk input:hover{
+    background-color : rgb(237, 190, 190);
+}
+#kk input:active {
+    background-color : rgb(212, 134, 134);
+}
+#kk button:hover{
+    background-color: rgb(239, 132, 132);
+
+
+}
+#kk button:active{
+    background-color: rgb(237, 190, 190);
+
+
+}
